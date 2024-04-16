@@ -1,6 +1,6 @@
 # camS3
 
-![CamS3](https://www.markdownguide.org/assets/images/tux.png)
+![CamS3](https://github.com/pabou38/camS3/blob/main/CamS3.png)
 
 
 modified firmware for [M5stack CamS3 Unit](https://shop.m5stack.com/products/unit-cams3-wi-fi-camera-ov2640)
