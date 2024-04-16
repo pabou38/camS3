@@ -7,7 +7,7 @@ modified firmware for [M5stack CamS3 Unit](https://shop.m5stack.com/products/uni
 
 original firmware [here](https://github.com/m5stack/UnitCamS3-UserDemo)
 
-see this [medium article] (https://medium.com/@pboudalier/solar-into-heaters-a-year-later-bb73c7a1aeb7)
+see this [medium article](https://medium.com/@pboudalier/solar-into-heaters-a-year-later-bb73c7a1aeb7)
 
 ---
 
