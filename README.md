@@ -2,7 +2,7 @@
 
 ![CamS3](https://github.com/pabou38/camS3/blob/main/CamS3.png)
 
-see this [medium article](https://pboudalier.medium.com/this-camera-never-sleeps-8ed9496fb363)
+see this [medium article](https://pboudalier.medium.com/this-camera-never-sleeps-8ed9496fb363) for project description
 
 ---
 
